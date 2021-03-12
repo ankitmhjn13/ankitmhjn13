@@ -2,4 +2,4 @@
 - 👀 I’m interested in Machine Learning and Artificial Intelligence
 - 🌱 I’m currently learning AI and ML
 - 💞️ I’m looking to collaborate on any python, ReactJS project
-- 📫 reach out to me on ankitmhjn5@gmail.com 
+- 📫 reach out to me on ankitmhjn5@gmail.com or download my resume from https://github.com/ankitmhjn13/resume.git
