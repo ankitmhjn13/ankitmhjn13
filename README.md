@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ankitmhjn13
+- 👋 Hi, I’m @ankitmhjn13 - Ankit Mahajan. Currently working at Ericsson India as full stack developer. 7 years of extensive experience in software development
 - 👀 I’m interested in Machine Learning and Artificial Intelligence
 - 🌱 I’m currently learning AI and ML
 - 💞️ I’m looking to collaborate on any python, ReactJS project
