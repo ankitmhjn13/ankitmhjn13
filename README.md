@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ankitmhjn13
+- 👀 I’m interested in Machine Learning and Artificial Intelligence
+- 🌱 I’m currently learning AI and ML
+- 💞️ I’m looking to collaborate on any python, ReactJS project
+- 📫 reach out to me on ankitmhjn5@gmail.com 
